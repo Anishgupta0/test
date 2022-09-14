@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 My name is Anish kumar gupta
 Thanks for opportunity
+=======
+This is challenge 14
+>>>>>>> branch-1
